@@ -3,7 +3,7 @@
 
 Cool Animals:
 
-1.
+1.  Lioness
 
 2.
 
