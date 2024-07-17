@@ -1,7 +1,7 @@
 # Intro-to-GitHub-July-2024
 
 
-*Cool Animals:*
+**Cool Animals:**
 
 1. Turtles
 
